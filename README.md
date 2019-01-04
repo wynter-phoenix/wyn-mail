@@ -1,2 +1,3 @@
 # wyn-mail
-Change me later
+
+A node based email processing server. 
